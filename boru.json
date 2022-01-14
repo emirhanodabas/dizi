@@ -1,32 +1,38 @@
 [{
-"Bölüm Adı": "Bazen Canavarlar Kazanır",
-"Bölüm": "1",
+"Bolum Adi": "Bazen Canavarlar Kazanır",
+"Bolum": "1", 
+ "Sure": "1.20.38",
 "ResimURL": "https://raw.githubusercontent.com/emirhanodabas/dizi/main/bro.jpg"
 
 },
  {
-"Bölüm Adı": "Kar Gibi Beyaz",
-"Bölüm": "2",
+"Bolum Adi": "Kar Gibi Beyaz",
+"Bolum": "2",
+  "Sure": "1.15.18",
 "ResimURL": "https://raw.githubusercontent.com/emirhanodabas/dizi/main/bro.jpg"
 },
  {
-"Bölüm Adı": "Çirkin Olsan Bile",
-"Bölüm": "3",
+"Bolum Adi": "Çirkin Olsan Bile",
+"Bolum": "3",
+  "Sure": "1.14.54",
 "ResimURL": "https://raw.githubusercontent.com/emirhanodabas/dizi/main/bro.jpg"
 },
  {
-"Bölüm Adı": "Mahalle",
-"Bölüm": "4",
+"Bolum Adi": "Mahalle",
+"Bolum": "4",
+  "Sure": "1.13.05",
 "ResimURL": "https://raw.githubusercontent.com/emirhanodabas/dizi/main/bro.jpg"
 },
  {
-"Bölüm Adı": "Mahşer",
-"Bölüm": "5",
+"Bolum Adi": "Mahşer",
+"Bolum": "5",
+  "Sure": "1.11.28",
 "ResimURL": "https://raw.githubusercontent.com/emirhanodabas/dizi/main/bro.jpg"
 },
  {
-"Bölüm Adı": "Final",
-"Bölüm": "6",
+"Bolum Adi": "Final",
+"Bolum": "6",
+  "Sure": "1.17.02",
 "ResimURL": "https://raw.githubusercontent.com/emirhanodabas/dizi/main/bro.jpg"
 }
 ]
